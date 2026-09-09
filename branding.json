@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#FAF6F1",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#FAF6F1",
+  "textColor": "#2A2520",
+  "accentColor": "#C85A17",
+  "fontHeading": "Crimson Text",
+  "fontBody": "Inter",
+  "borderRadius": "0.5rem",
+  "logoText": "Ember & Craft",
+  "logoImageUrl": null,
+  "tone": "premium"
+}
