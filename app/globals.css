@@ -12,18 +12,18 @@
 /* __branding-overrides-start__ */
 :root {
   --color-background: oklch(0.4383 0.1983 303.72);
-  --color-foreground: oklch(0.2682 0.0118 67.29);
+  --color-foreground: oklch(0.9470 0.0074 80.72);
   --background: oklch(0.4383 0.1983 303.72);
   --card: oklch(0.4383 0.1983 303.72);
   --popover: oklch(0.4383 0.1983 303.72);
-  --foreground: oklch(0.2682 0.0118 67.29);
-  --card-foreground: oklch(0.2682 0.0118 67.29);
+  --foreground: oklch(0.9470 0.0074 80.72);
+  --card-foreground: oklch(0.9470 0.0074 80.72);
   --primary: oklch(0.9748 0.0079 73.74);
   --accent: oklch(0.7958 0.1553 86.36);
-  --radius: 0.75rem;
+  --radius: 0px;
 }
 body {
   background: #6b21a8 !important;
-  color: #2A2520 !important;
+  color: #f0ede8 !important;
 }
 /* __branding-overrides-end__ */
