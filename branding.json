@@ -1,13 +1,13 @@
 {
-  "primaryColor": "#FAF6F1",
-  "secondaryColor": "#FFFFFF",
-  "backgroundColor": "#FAF6F1",
-  "textColor": "#2A2520",
-  "accentColor": "#C85A17",
-  "fontHeading": "Crimson Text",
+  "tone": "professional",
   "fontBody": "Inter",
-  "borderRadius": "0.5rem",
   "logoText": "Ember & Craft",
+  "textColor": "#1a0a00",
+  "accentColor": "#f7931e",
+  "fontHeading": "Crimson Text",
+  "borderRadius": "1rem",
   "logoImageUrl": null,
-  "tone": "premium"
+  "primaryColor": "#ff6b35",
+  "secondaryColor": "#fff3e0",
+  "backgroundColor": "#fffbf0"
 }
