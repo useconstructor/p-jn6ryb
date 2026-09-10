@@ -3,7 +3,7 @@
   --font-sans: var(--sans), sans-serif; --font-serif: var(--serif), serif;
   --color-cream: #FAF6F1; --color-paper: #FFFFFF; --color-ember: #C85A17;
   --color-ink: #2A2520; --color-earth: #6B5B47; --color-tan: #D4A574; --color-forest: #5A6B52;
-  --color-background: #FAF6F1; --color-foreground: #2A2520; --color-border: #DED4C8; --radius: .5rem;
+  --color-background: #FAF6F1; --color-foreground: #2A2520; --color-border: #DED4C8; --radius: 0.75rem;
 }
 @layer base { * { border-color: var(--color-border) } html { scroll-behavior: smooth } body { background:#FAF6F1;color:#2A2520;font-family:var(--sans) } h1,h2,h3 { font-family:var(--serif) } button,a { cursor:pointer } }
 @keyframes spin { to { transform:rotate(360deg) } } @keyframes float { 50% { transform:translateY(-15px) rotate(15deg) } }
