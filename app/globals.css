@@ -11,19 +11,19 @@
 
 /* __branding-overrides-start__ */
 :root {
-  --color-background: oklch(0.4383 0.1983 303.72);
-  --color-foreground: oklch(0.9470 0.0074 80.72);
-  --background: oklch(0.4383 0.1983 303.72);
-  --card: oklch(0.4383 0.1983 303.72);
-  --popover: oklch(0.4383 0.1983 303.72);
-  --foreground: oklch(0.9470 0.0074 80.72);
-  --card-foreground: oklch(0.9470 0.0074 80.72);
+  --color-background: oklch(0.5585 0.1025 100.22);
+  --color-foreground: oklch(0.2682 0.0118 67.29);
+  --background: oklch(0.5585 0.1025 100.22);
+  --card: oklch(0.5585 0.1025 100.22);
+  --popover: oklch(0.5585 0.1025 100.22);
+  --foreground: oklch(0.2682 0.0118 67.29);
+  --card-foreground: oklch(0.2682 0.0118 67.29);
   --primary: oklch(0.9748 0.0079 73.74);
-  --accent: oklch(0.7958 0.1553 86.36);
-  --radius: 0px;
+  --accent: oklch(0.7533 0.2288 145.07);
+  --radius: 0.75rem;
 }
 body {
-  background: #6b21a8 !important;
-  color: #f0ede8 !important;
+  background: #827521 !important;
+  color: #2A2520 !important;
 }
 /* __branding-overrides-end__ */
