@@ -8,3 +8,23 @@
 @layer base { * { border-color: var(--color-border) } html { scroll-behavior: smooth } body { background:#16213e;color:#eaeaea;font-family:var(--sans) } h1,h2,h3 { font-family:var(--serif) } button,a { cursor:pointer } }
 @keyframes spin { to { transform:rotate(360deg) } } @keyframes float { 50% { transform:translateY(-15px) rotate(15deg) } }
 .drum { animation:spin 25s linear infinite }.bean { animation:float 4s ease-in-out infinite }.grain { background-image:radial-gradient(rgba(107,91,71,.1) .6px,transparent .6px);background-size:6px 6px }
+
+/* __branding-overrides-start__ */
+:root {
+  --color-background: oklch(0.9882 0.0151 90.23);
+  --color-foreground: oklch(0.1661 0.0383 61.83);
+  --radius: 1rem;
+  --background: oklch(0.9882 0.0151 90.23);
+  --card: oklch(0.9882 0.0151 90.23);
+  --popover: oklch(0.9882 0.0151 90.23);
+  --foreground: oklch(0.1661 0.0383 61.83);
+  --card-foreground: oklch(0.1661 0.0383 61.83);
+  --primary: oklch(0.7045 0.1926 39.23);
+  --accent: oklch(0.7525 0.1653 62.22);
+  --radius: 1rem;
+}
+body {
+  background: #fffbf0 !important;
+  color: #1a0a00 !important;
+}
+/* __branding-overrides-end__ */
