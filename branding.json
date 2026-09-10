@@ -3,11 +3,11 @@
   "fontBody": "Inter",
   "logoText": "Ember & Craft",
   "textColor": "#2A2520",
-  "accentColor": "#e8b423",
+  "accentColor": "#1ed242",
   "fontHeading": "Crimson Text",
-  "borderRadius": "0px",
+  "borderRadius": "0.75rem",
   "logoImageUrl": null,
   "primaryColor": "#FAF6F1",
-  "secondaryColor": "#FFFFFF",
-  "backgroundColor": "#6b21a8"
+  "secondaryColor": "#a80000",
+  "backgroundColor": "#827521"
 }
