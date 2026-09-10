@@ -11,27 +11,19 @@
 
 /* __branding-overrides-start__ */
 :root {
-  --color-background: oklch(0.1591 0.0000 89.88);
-  --color-background: oklch(0.1591 0.0000 89.88);
-  --background: oklch(0.1591 0.0000 89.88);
-  --color-foreground: oklch(1.0000 0.0000 89.88);
-  --color-foreground: oklch(1.0000 0.0000 89.88);
-  --foreground: oklch(1.0000 0.0000 89.88);
-  --card-foreground: oklch(1.0000 0.0000 89.88);
-  --radius: 0px;
-  --radius: 0px;
-  --radius: 0px;
-  --background: oklch(0.1591 0.0000 89.88);
-  --card: oklch(0.1591 0.0000 89.88);
-  --popover: oklch(0.1591 0.0000 89.88);
-  --foreground: oklch(1.0000 0.0000 89.88);
-  --card-foreground: oklch(1.0000 0.0000 89.88);
-  --primary: oklch(0.2178 0.0000 89.88);
-  --accent: oklch(0.8763 0.2278 152.55);
-  --radius: 0px;
+  --color-background: oklch(0.9748 0.0079 73.74);
+  --color-foreground: oklch(0.2682 0.0118 67.29);
+  --background: oklch(0.9748 0.0079 73.74);
+  --card: oklch(0.9748 0.0079 73.74);
+  --popover: oklch(0.9748 0.0079 73.74);
+  --foreground: oklch(0.2682 0.0118 67.29);
+  --card-foreground: oklch(0.2682 0.0118 67.29);
+  --primary: oklch(0.9748 0.0079 73.74);
+  --accent: oklch(0.5966 0.1577 46.11);
+  --radius: 0.75rem;
 }
 body {
-  background: #0d0d0d !important;
-  color: #ffffff !important;
+  background: #FAF6F1 !important;
+  color: #2A2520 !important;
 }
 /* __branding-overrides-end__ */
