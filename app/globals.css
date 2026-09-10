@@ -1,10 +1,10 @@
 @import "tailwindcss";
 @theme {
   --font-sans: var(--sans), sans-serif; --font-serif: var(--serif), serif;
-  --color-cream: #FAF6F1; --color-paper: #FFFFFF; --color-ember: #C85A17;
-  --color-ink: #2A2520; --color-earth: #6B5B47; --color-tan: #D4A574; --color-forest: #5A6B52;
-  --color-background: #FAF6F1; --color-foreground: #2A2520; --color-border: #DED4C8; --radius:0.75rem;
+  --color-cream: #16213e; --color-paper: #0f3460; --color-ember: #e94560;
+  --color-ink: #eaeaea; --color-earth: #6B5B47; --color-tan: #D4A574; --color-forest: #5A6B52;
+  --color-background: #16213e; --color-foreground: #eaeaea; --color-border: #DED4C8; --radius:0.5rem;
 }
-@layer base { * { border-color: var(--color-border) } html { scroll-behavior: smooth } body { background:#FAF6F1;color:#2A2520;font-family:var(--sans) } h1,h2,h3 { font-family:var(--serif) } button,a { cursor:pointer } }
+@layer base { * { border-color: var(--color-border) } html { scroll-behavior: smooth } body { background:#16213e;color:#eaeaea;font-family:var(--sans) } h1,h2,h3 { font-family:var(--serif) } button,a { cursor:pointer } }
 @keyframes spin { to { transform:rotate(360deg) } } @keyframes float { 50% { transform:translateY(-15px) rotate(15deg) } }
 .drum { animation:spin 25s linear infinite }.bean { animation:float 4s ease-in-out infinite }.grain { background-image:radial-gradient(rgba(107,91,71,.1) .6px,transparent .6px);background-size:6px 6px }
