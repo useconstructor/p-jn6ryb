@@ -2,12 +2,12 @@
   "tone": "professional",
   "fontBody": "Inter",
   "logoText": "Ember & Craft",
-  "textColor": "#eaeaea",
-  "accentColor": "#e94560",
+  "textColor": "#1a0a00",
+  "accentColor": "#f7931e",
   "fontHeading": "Crimson Text",
-  "borderRadius": "0.5rem",
+  "borderRadius": "1rem",
   "logoImageUrl": null,
-  "primaryColor": "#16213e",
-  "secondaryColor": "#0f3460",
-  "backgroundColor": "#1a1a2e"
+  "primaryColor": "#ff6b35",
+  "secondaryColor": "#fff3e0",
+  "backgroundColor": "#fffbf0"
 }
